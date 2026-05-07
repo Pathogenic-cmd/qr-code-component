@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./images/Screenshot.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Pathogenic-cmd/qr-code-component)
+- Live Site URL: [Add live site URL here](https://pathogenic-cmd.github.io/qr-code-component/)
 
 ## My process
 
@@ -41,9 +41,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 I learnt how to write clean HTML systax and writing styles in hierachy.
 
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
